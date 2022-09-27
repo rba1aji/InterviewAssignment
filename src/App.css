@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .img1 {
   box-sizing: border-box;
   position: absolute;
@@ -7,7 +6,7 @@
   left: 52%;
   top: 10%;
   background: url(assets/img1.png);
-  border: 10px solid #FFFFFF;
+  border: 10px solid #ffffff;
 }
 
 .img2 img {
@@ -20,43 +19,3 @@
 
   /* background: url(.png); */
 }
-=======
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
->>>>>>> 4c673773428cc187a8dc0c39aeaaec28655ad0f5
