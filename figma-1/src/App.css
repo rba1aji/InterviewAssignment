@@ -1,0 +1,21 @@
+.img1 {
+  box-sizing: border-box;
+  position: absolute;
+  width: 30%;
+  height: 79%;
+  left: 52%;
+  top: 10%;
+  background: url(assets/img1.png);
+  border: 10px solid #FFFFFF;
+}
+
+.img2 img {
+  /* yellow-leaf-print-cotton-kaftan-kaft_yellow1_2 */
+
+  position: absolute;
+  /* width: 1022px; */
+  height: 100%;
+  left: 80%;
+
+  /* background: url(.png); */
+}
