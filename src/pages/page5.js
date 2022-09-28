@@ -22,16 +22,16 @@ export default function Page5() {
                                 <p><b>Fabric</b><br />Cotton</p>
                             </td>
                             <td><img src={img14} />
-                                <p><b>Fabric</b><br />Cotton</p>
+                                <p><b>Length</b><br />Crop Length</p>
                             </td>
 
                         </tr>
                         <tr className="text-center">
                             <td><img src={img11} />
-                                <p><b>Fabric</b><br />Cotton</p>
+                                <p><b>Color</b><br />Yellow</p>
                             </td>
                             <td><img src={img12} />
-                                <p><b>Fabric</b><br />Cotton</p>
+                                <p><b>Occasion/Usage</b><br />sleepwear/Casual</p>
                             </td>
                         </tr>
                     </table>
