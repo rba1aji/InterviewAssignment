@@ -14,19 +14,14 @@
 }
 
 .img2 img {
-  /* yellow-leaf-print-cotton-kaftan-kaft_yellow1_2 */
-
   position: absolute;
-  /* width: 1022px; */
   height: 100%;
   right: 0%;
   top: 0;
-  /* background: url(.png); */
 }
 
 .text1 {
   position: absolute;
-  /* width: 0%; */
   left: 7%;
   top: 40%;
 }
@@ -48,10 +43,17 @@
 
 .text2 {
   font-family: "Arial";
-  /* font-style: normal; */
-  /* font-weight: 900; */
-  /* font-size: 100%; */
-  /* line-height: 46px; */
-
   color: #FBB148;
 }
+
+.page2row2 td {
+  padding: 2.75vw;
+}
+
+.bold-gold p{
+  color: #FBB148;
+}
+
+/* .page2row2 img {
+  width: '28vw';
+} */
