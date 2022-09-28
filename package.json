@@ -32,11 +32,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-<<<<<<< HEAD
   },
   "devDependencies": {
     "web-vitals": "^3.0.2"
-=======
->>>>>>> 4c673773428cc187a8dc0c39aeaaec28655ad0f5
   }
 }
