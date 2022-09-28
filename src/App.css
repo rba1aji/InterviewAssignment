@@ -1,3 +1,7 @@
+.App {
+  font-family: "Arial";
+}
+
 .img1 {
   box-sizing: border-box;
   position: absolute;
@@ -23,7 +27,7 @@
 .text1 {
   position: absolute;
   /* width: 0%; */
-  left: 2%;
+  left: 7%;
   top: 40%;
 }
 
@@ -31,12 +35,23 @@
   font-family: 'Arial';
   font-style: normal;
   font-weight: 1000;
-  font-size: 170%;
+  font-size: 180%;
   line-height: 120%;
 
   color: #FFFFFF;
 }
 
-.bg-1{
+.bg-1 {
   background: linear-gradient(135deg, #FFDEAF 0%, #FBB148 100%);
+}
+
+
+.text2 {
+  font-family: "Arial";
+  /* font-style: normal; */
+  /* font-weight: 900; */
+  /* font-size: 100%; */
+  /* line-height: 46px; */
+
+  color: #FBB148;
 }
