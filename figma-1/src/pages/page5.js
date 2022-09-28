@@ -13,24 +13,24 @@ export default function Page5() {
         }}>
             <tr>
                 <td >
-                    <img style={{ width: '40vw' }} src={img9} />
+                    <img alt='alt' style={{ width: '40vw' }} src={img9} />
                 </td>
                 <td stye={{ width: '60vw' }}>
                     <table className="page5table">
                         <tr className="text-center">
-                            <td><img src={img10} />
+                            <td><img alt='alt' src={img10} />
                                 <p><b>Fabric</b><br />Cotton</p>
                             </td>
-                            <td><img src={img14} />
+                            <td><img alt='alt' src={img14} />
                                 <p><b>Length</b><br />Crop Length</p>
                             </td>
 
                         </tr>
                         <tr className="text-center">
-                            <td><img src={img11} />
+                            <td><img alt='alt' src={img11} />
                                 <p><b>Color</b><br />Yellow</p>
                             </td>
-                            <td><img src={img12} />
+                            <td><img alt='alt' src={img12} />
                                 <p><b>Occasion/Usage</b><br />sleepwear/Casual</p>
                             </td>
                         </tr>

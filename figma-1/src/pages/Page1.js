@@ -11,12 +11,12 @@ export default function Page1() {
                     </td>
                     <div className="text1" style={{padding:'0%'}}>
                         <div><span className="bg-white py-3 px-4"  >
-                            <img style={{ width: '40%' }} src={logo1} />
+                            <img alt='alt' style={{ width: '40%' }} src={logo1} />
                         </span></div>
                         <div className='text11 mt-4'>YELLOW LEAF PRINT<br />COTTON KAFTAN</div>
                     </div>
                     <div className="img1"></div>
-                    <div className="img2"><img src={img2} /></div>
+                    <div className="img2"><img alt='alt' src={img2} /></div>
                     <td style={{ width: '33%', backgroundColor: '#EE3337' }}>
                     </td>
                 </tr>

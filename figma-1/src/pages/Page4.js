@@ -13,8 +13,8 @@ export default function Page4() {
                             <p style={{ paddingRight: '48%' }}>Shararat's key goal is to ensure maximum comfort without compromising on style. We're on a mission to use best-in-class fabric and technology to offer you the widest range of sleepwear & loungewear.</p>
                         </div>
                     </td>
-                    <span className="page3middle"><img  className='' src={logo1}/></span>
-                    <td><img style={{ width: '50vw' }} src={img8} /></td>
+                    <span className="page3middle"><img alt='alt'  className='' src={logo1}/></span>
+                    <td><img alt='alt' style={{ width: '50vw' }} src={img8} /></td>
                 </tr>
             </table>
         </div>
