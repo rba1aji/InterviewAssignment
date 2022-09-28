@@ -50,10 +50,36 @@
   padding: 2.75vw;
 }
 
-.bold-gold p{
+.bold-gold {
   color: #FBB148;
 }
 
 /* .page2row2 img {
   width: '28vw';
 } */
+
+.page3middle {
+
+  background: rgba(255, 255, 255, 0.75);
+  position: absolute;
+  border-radius:50%;
+   width: 250px;
+  height: 250.42px; 
+  left:40%;
+  top:380%;
+}
+
+.page3middle img{
+  position: absolute;
+  top:40%;
+  left:7%;
+}
+
+.page5table img{
+  padding:2%;
+  width: 90%;
+}
+
+.page5table td{
+  padding:5%;
+}
